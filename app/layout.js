@@ -18,5 +18,6 @@ export const viewport = { themeColor:"#6b21a8" };
 export default function RootLayout({ children }){
   return (<html lang="ar" dir="rtl"><body>
     <Header/><main className="container">{children}</main><Footer/><TelegramPopup/><Analytics/>
+    <meta name="google-site-verification" content="_30UCrnftt8YJzXKB80JIVReo4Xm22k2BC9fr_zsm04" />
   </body></html>);
 }
