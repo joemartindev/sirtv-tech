@@ -1,5 +1,5 @@
 export const metadata={title:"سياسة الخصوصية — سير تيفي",description:"سياسة الخصوصية لموقع سير تيفي.",alternates:{canonical:"/privacy"}};
-export default function P(){return (<div className="desc"><h2>سياسة الخصوصية — سير تيفي</h2>
+export default function P(){return (<div className="desc"><h1 style={{color:"#6b21a8",fontSize:20,marginBottom:8}}>سياسة الخصوصية — سير تيفي</h1>
   <p>لا يجمع موقع سير تيفي معلومات شخصية من الزوار ولا يتطلب تسجيلاً.</p>
   <h2>الفيديو والأخبار</h2><p>مقاطع الملخصات معروضة عبر مشغل يوتيوب الرسمي، والأخبار من مصادرها مع روابط لها.</p>
   <h2>الإعلانات</h2><p>قد نستخدم أدوات تحليلات وإعلانات من أطراف ثالثة قد تستخدم ملفات تعريف الارتباط.</p>

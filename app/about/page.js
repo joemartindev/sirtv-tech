@@ -1,4 +1,4 @@
 export const metadata={title:"من نحن — سير تيفي",description:"من نحن — سير تيفي موقع ملخصات وأهداف وأخبار كرة القدم.",alternates:{canonical:"/about"}};
-export default function A(){return (<div className="desc"><h2>من نحن — سير تيفي Sir TV</h2>
+export default function A(){return (<div className="desc"><h1 style={{color:"#6b21a8",fontSize:20,marginBottom:8}}>من نحن — سير تيفي Sir TV</h1>
   <p><b>سير تيفي</b> منصة عربية لملخصات وأهداف وأخبار كرة القدم: نجمع لك ملخصات مباريات اليوم فيديو من يوتيوب وآخر الأخبار الرياضية، إضافةً إلى تطبيق سير تيفي لمتابعة المباريات مباشرة.</p>
   <p>ملاحظة: مقاطع الفيديو معروضة من يوتيوب عبر المشغل الرسمي، والأخبار من مصادرها الأصلية.</p></div>);}
