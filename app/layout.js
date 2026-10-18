@@ -13,6 +13,7 @@ export const metadata = {
   openGraph: { type:"website", locale:"ar_AR", siteName:"Sir TV — سير تيفي",
     title:"Sir TV — سير تيفي | ملخصات وأهداف كرة القدم", description:"ملخصات وأهداف مباريات اليوم فيديو وأخبار كرة القدم مع سير تيفي." },
   robots: { index:true, follow:true },
+  verification: { other: { "msvalidate.01": "2FC3846667582BF4D656305A3D37C6A1" } },
 };
 export const viewport = { themeColor:"#6b21a8" };
 export default function RootLayout({ children }){
